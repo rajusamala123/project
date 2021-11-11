@@ -1,0 +1,169 @@
+﻿CORNERSTONE SOFTWARE DEVELOPMENT LAB.
+LAB NUMBER 4
+
+LAB MEMBERS.
+ 1 'Archer
+            archer80@gmail.com
+ 2 'Lana
+            lana756@gmai.com
+ 3 'Cheryl
+            cheryl3@gmail.com
+ 4 'Mallory 
+            mallory@gmai.com
+ 5 'Krieger
+            krieger900@gmail.com
+ 6 'Barry 
+            barry45@gmail.com
+
+FACTORS FOR THE CHOICE OF THE LANGUAGE USED
+  it is easy to maintan the software since the language used  and the solution chosen is easily understood and also the code is simple. It is was
+ to hire the language and use it for the software development.This is to ensure long-term sustainability of the codebase.
+
+The applies software is secure by the use of the programming language used in its development.
+The desire of market for the software driven me for the choise of the langgauge used since it has high market demand.
+The application complexibility made me to chose the language.
+
+SOURCES OF MATERIALS USED
+Library management system. the online library offered the friendly books used. SQL questions enables quick retrieval of the regured information.
+The centralised college database  which has academic departments in computing. the computing department offered the knowledge on how to buld the system.
+My database management which has a variety of record-keeping project. it comprises of differen kinds of the information in every field.
+Online retail application helped us to log into the net and buy items online
+
+RERERENCES
+Samuel Paul, Strategic Management of Development Programs: Guidelines for Action (Geneva: International Labor Office, 1983).
+Peter H Rossi and Howard E.Freeman,Evaluation: ASystematic Approach (Newbury Park, CA: Sage 1989
+ Ralph Brody, Problem Solving: Concepts and Methods for Community Organizations (New York: Human Sciences Press, 1982).
+Edward A. Schuman, Evaluation Research (New York: Russell Sage Foundation, 1967)
+
+PROJECT WRITEUP
+
+Quick exercise
+Goal:
+Improving the quality of the movie sections all over the world
+S.M.A.R.T objective
+       Ensuring that 20,000,000,000 people get to know programming languages to implement change in the word of movie shows
+Data source
+     conerston software development lab.
+
+Problem definition
+The organization has been working with a manual system to do their daily tasks. Their daily task is all about keeping records of the farmers, employees and vehicles which requires a computerized system. Movers’ organization has been experiencing problems such as occurrence of errors when handling the farmers orders and transport deliveries, it has also brought to tired workers since most of the group workers will definitely be of user friendly with the computerized system.
+Overview of the proposed system
+
+ Input
+Use of record’s books to store records, most written and kept into the store as important records. 
+The records kept in record’s books are entered by personnel, which is susceptible to human errors.
+
+Data Manipuation
+Data manipulation is carried by use of calculators across record’s books when tabulating information. Calculators are electronic but depends on human input to be carried out.
+The use of calculators reduces errors as compared to basic calculation that ensures reduction in errors availed
+ within the data manipulated for statistical use.
+
+ Output
+The output of records is mostly in form of documented receipts, the receipts are signed for authenticity and eligibility as proof. 
+When output is to be presented for statistical analysis, drawn charts and diagrams are used that are seen to be bulky, most of the data is not well diagrammatically presented as some are manually drawn.
+
+Objectives of the proposed system
+Maintain a record of the;
+1.	Membership
+2.	televiosion screens
+4.	service delivered
+6.	Orders for shows
+7.	Offences committed by movie shows
+8.	Expenses for each televison
+Compute each of the following 
+1.	Payment formovie show service
+2.	Penalties surcharged on the tv owners
+3.	Loading fee per television set
+4.	Revenue 
+5.	Expenses for each service
+6.	Tax payable
+7.	Total company expenses
+8.	Total revenue for the company
+9.	Overall company profit
+Generate each of the following reports 
+1.	movie details
+2.	stations
+3.	Offenses 
+4.	Services
+5.	Interests on screens
+6.	Groups
+7.	Company net profit
+
+ Scope of the system
+I had to use different methods to gather information from the employees and farmers of Movers organization.
+
+ Observation
+I had to observe how the buyers and sellers performed their daily duties and I did observe that they were tired of the losses.
+ This means that the manual system was tiresome to thetem
+Interview 
+I had to interview the employees so that I could be able to identify their strength and weaknesses. 
+However, I learnt that the tv buyers and sellers  were facing a lot of difficulties. This means that the manual system was troublesome .
+
+Interviewee name:  ……………………………………… interviewer: ………………………………………………..
+Date:……………………………………………..
+Place:…………………………………………………
+Subject:……………………………………………………..
+
+ Feasibility Study
+The feasibility analysis of the proposed the system centered on the following:
+
+Feasibility report
+1.	Schedule: the system will take7 months to develop.
+2.	The technology required to develop the new system is readily available in the market.
+3.	The system users are happy with the proposal to develop a new system.
+4.	It meets all the legal demands.
+
+Operational feasibility
+The system is flexible and people with the knowledge of computer will be able to operate the system with least guidance.
+Technical feasibility
+This indicates that the group needs to improvise their infrastructure in order to support and enable usage of the new system
+ Economic feasibility 
+This identify the cost and benefits that is proposed to the current system. Cost benefit analysis.
+(a) Costs 
+The entire development and operational costs can be estimated as follows:
+1.	Development – $  1,200
+2.	Monthly operational costs – Kshs 1,200
+3.	Total lifetime of a system – 10 years
+ Total lifetime costs = 1,200+ (1,200 * 12) * 10
+			= $ 156,000
+        (b) Benefits
+(i) Savings from introduction of paper less system
+			$ 570,000
+
+Conclusion: The study concluded that the implementation of theidea of the implementation system is feasible whereas the
+ state financial support is essential.
+	
+ Factors to consider when purchasing software
+1.	User friendly 
+2.	Compatibility
+3.	Reliability
+4.	Effectiveness
+5.	Cost
+6.	Version
+7.	Upgradability
+
+
+ OBSERVATION
+The team took its time to observe the behavior of workers, the management and software users
+REQUIREMENTS
+After the above data gathering, it has actually helped us to get crucial information needed to design the new system. The following are key functional and non-functional requirements of the proposed system.
+ Functional requirements
+The main goal for this system is to increase the efficiency in processing. In order for us to meet this goal the system should be able to:
+•	Be accurate during handling of the money
+•	Save time
+•	Monitor the payments of the youths in the organization
+•	Maintain all the records
+Non-functional requirements
+In order to switch from the current manual system to computerized environment the organization recommended that the new system should be
+•	Efficient
+•	Easy to be used by staff with minimal computer literacy skills in order to to be able to easily generate reports and capture their inputs 
+Enforce system security
+ 
+
+
+
+
+
+
+
+
